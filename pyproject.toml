@@ -1,0 +1,15 @@
+[project]
+name = "nixtla-intro-workshop"
+version = "0.1.0"
+description = "Some notebooks that demonstrate how to do time series forecasting with Nixtla's tools."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "nbformat>=5.10.4",
+    "plotly>=5.24.1",
+    "polars>=1.21.0",
+    "statsforecast>=2.0.2",
+]
