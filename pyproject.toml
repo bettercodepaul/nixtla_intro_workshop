@@ -7,7 +7,9 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.7",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.3",
+    "mlforecast>=1.0.2",
     "nbformat>=5.10.4",
     "plotly>=5.24.1",
     "polars>=1.21.0",
