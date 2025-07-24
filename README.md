@@ -10,7 +10,7 @@ This repository contains hands-on Jupyter notebooks that demonstrate the basics 
 - [**Introduction_to_MLForecast.ipynb**](https://colab.research.google.com/github/bettercodepaul/nixtla_intro_workshop/blob/main/Introduction_to_MLForecast.ipynb)
   Machine learning approaches for time series forecasting using mlforecast. Includes feature engineering, local vs global models, and validation strategies.
 
-- [**Introduction_to_TimeGPT.ipynb**](https://colab.research.google.com/github/bettercodepaul/nixtla_intro_workshop/blob/main/Introduction_to_NeuralForecast_TimeGPT.ipynb)
+- [**Introduction_to_NeuralForecast_TimeGPT.ipynb**](https://colab.research.google.com/github/bettercodepaul/nixtla_intro_workshop/blob/main/Introduction_to_NeuralForecast_TimeGPT.ipynb)
   Forecasting with NeuralForecast and TimeGPT, including neural network models and foundation models for time series.
 
 - **utilities.py**  
