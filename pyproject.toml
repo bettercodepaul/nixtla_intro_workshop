@@ -11,6 +11,8 @@ dependencies = [
     "matplotlib>=3.10.3",
     "mlforecast>=1.0.2",
     "nbformat>=5.10.4",
+    "neuralforecast>=3.0.2",
+    "nixtla>=0.6.6",
     "plotly>=5.24.1",
     "polars>=1.21.0",
     "scikit-learn==1.5.2",
