@@ -152,3 +152,6 @@ Thumbs.db
 # Repomix
 .repomix/
 repomix-output.xml
+
+# PyTorch Lightning Logs
+lightning_logs/
